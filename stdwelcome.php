@@ -31,7 +31,7 @@ session_start();
 <div class="section">
         <div class="container">
             <div class="row">
-                <h3 class="center green-text text-darken-4"><i class=" small material-icons ">school</i> SITM Online Examination System</h3>
+                <h3 class="center green-text text-darken-4"><i class=" small material-icons ">school</i> Online Examination System</h3>
             </div>
             <hr/>
 

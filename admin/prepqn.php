@@ -169,7 +169,7 @@ if ($_GLOBALS['message']) {
 
 <div class="container">
     <div class="row">
-        <h1 class="center green-text text-darken-4">SITM Online Examination System</h1>
+        <h1 class="center green-text text-darken-4"> Online Examination System</h1>
     </div>
     <form name="prepqn" action="prepqn.php" method="post" enctype="multipart/form-data">
         <div class="row">

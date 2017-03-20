@@ -31,7 +31,7 @@ else if(isset($_REQUEST['back'])) {
 <body style="background-image: url('../images/slogo2.jpg'); background-size: contain">
 <div class="container">
     <div class="row">
-        <h1 class="center green-text text-darken-4 large">SITM Online Examination System</h1>
+        <h1 class="center green-text text-darken-4 large"> Online Examination System</h1>
     </div>
 <?php
 $result=executeQuery("select t.testname,DATE_FORMAT(t.testfrom,'%d %M %Y') as fromdate,DATE_FORMAT(t.testto,'%d %M %Y %H:%i:%S') as todate,sub.subname,IFNULL((select sum(marks) from question where testid=".$_REQUEST['testid']."),0) as maxmarks from test as t, subject as sub where sub.subid=t.subid and t.testid=".$_REQUEST['testid'].";") ;

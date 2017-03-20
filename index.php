@@ -56,7 +56,7 @@ if ($_GLOBALS['message']) {
     <div class="container">
 <center>
     <div class="row">
-        <h2 class="center green-text text-darken-4">SITM Online Examination System</h2>
+        <h2 class="center green-text text-darken-4"> Online Examination System</h2>
     </div>
     <div class="row">
         <div class="col l4"></div>

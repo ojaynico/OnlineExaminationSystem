@@ -155,7 +155,7 @@ if ($_GLOBALS['message']) {
 
 <div class="container">
     <div class="row">
-        <h1 class="center green-text text-darken-4"><i class=" small material-icons  ">school</i> SITM Online
+        <h1 class="center green-text text-darken-4"><i class=" small material-icons  ">school</i> Online
             Examination System</h1>
     </div>
     <form name="testmng" action="testmng.php" method="post">

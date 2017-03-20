@@ -85,7 +85,7 @@ if($_GLOBALS['message']) {
 ?>
         <div class="container">
             <div class="row">
-                <h2 class="center green-text text-darken-4">SITM Online Examination System</h2>
+                <h2 class="center green-text text-darken-4"> Online Examination System</h2>
             </div>
             <form id="summary" action="resumetest.php" method="post">
                 <div class="row">

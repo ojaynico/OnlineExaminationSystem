@@ -11,7 +11,7 @@ include_once '../oesdb.php';
     <script type="text/javascript" src="../validate.js"></script>
 </head>
 <body style="background-image: url('../images/slogo2.jpg'); background-size: contain" onload="window.print();">
-<h1 class="text-center">SAIPALI INSTITUTE OF TECHNOLOGY AND MANAGEMENT</h1>
+<h1 class="text-center"> RESULTS</h1>
 
 <?php
 $role = $_SESSION['role'];

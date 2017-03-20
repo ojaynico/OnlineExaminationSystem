@@ -48,7 +48,7 @@ if(isset($_SESSION['starttime']))
 
       <div class="container">
           <div class="row">
-              <h2 class="center green-text text-darken-4">SITM Online Examination System</h2>
+              <h2 class="center green-text text-darken-4"> Online Examination System</h2>
           </div>
            <form id="editprofile" action="editprofile.php" method="post">
           <div class="row">

@@ -46,7 +46,7 @@ else if(isset($_REQUEST['logout'])) {
         ?>
         <div id="container">
             <div class="header">
-                <h3 class="headtext"><img src="images/logo.png" height="100">  &nbsp;SITM Online Examination System </h3><hr/>
+                <h3 class="headtext"><img src="images/logo.png" height="100">  &nbsp; Online Examination System </h3><hr/>
             </div>
 
             <form id="summary" action="viewresult.php" method="post">

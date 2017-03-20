@@ -45,7 +45,7 @@ if ($_GLOBALS['message']) {
 
 <div class="container">
     <div class="row">
-        <h1 class="center green-text text-darken-4 large"><i class=" small material-icons ">school</i> SITM Online Examination System </h1>
+        <h1 class="center green-text text-darken-4 large"><i class=" small material-icons ">school</i> Online Examination System </h1>
     </div>
     <form name="rsltmng" action="rsltmng.php" method="post">
         <div class="row">
